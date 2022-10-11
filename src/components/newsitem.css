@@ -1,0 +1,17 @@
+.news-app {
+    display: flex;
+    justify-content: center;
+    background-color: aliceblue;
+}
+
+.news-item {
+    width: 400px;
+    padding: 15px;
+    border: 2px solid;
+    margin-bottom: 15px;
+    background-color: bisque;
+}
+
+.news-img {
+    width: 400px;
+}
